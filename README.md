@@ -1,2 +1,2 @@
 # Amharic-Movie-Recommender
-A machine learning project that recommends Amharic movies based on YouTube user comments.
+This project uses machine learning to recommend Amharic movies based on user comments scraped from YouTube. By analyzing the sentiment and content of these comments, the system suggests movies that users with similar tastes might enjoy.
